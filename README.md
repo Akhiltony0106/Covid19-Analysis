@@ -25,7 +25,7 @@ This project demonstrates an end-to-end data pipeline to analyze COVID-19 data f
 4. Visualize insights in Power BI.
 
 ## 📊 Dashboard
-![Power BI](01-Architecture-Covid19.jpg)
+![Power BI](05-Covid19_PowerBI.pbix)
 
 ## ⚙️ Technologies Used
 - Azure Data Factory
