@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data pipeline to analyze COVID-19 data for 25 countries using Azure services.
 
 ## 🚀 Architecture
-![Architecture Diagram](Architecture-Covid19.jpg)
+![Architecture Diagram](01-Architecture-Covid19.jpg)
 
 - **Data Source**: COVID-19 API (disease.sh)
 - **Storage**: Azure Data Lake (Raw, Ingested, Presentation layers)
@@ -25,7 +25,7 @@ This project demonstrates an end-to-end data pipeline to analyze COVID-19 data f
 4. Visualize insights in Power BI.
 
 ## 📊 Dashboard
-![Power BI](reports/PowerBI-Dashboard.png)
+![Power BI](01-Architecture-Covid19.jpg)
 
 ## ⚙️ Technologies Used
 - Azure Data Factory
